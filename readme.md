@@ -43,4 +43,4 @@ and appreciated!
 
 ---
 
-> [MIT](./LICENSE) | [CHANGELOG](./CHANGELOG)
+> [MIT](./LICENSE) | [CHANGELOG](./CHANGELOG.md)
