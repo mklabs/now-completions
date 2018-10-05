@@ -1,6 +1,6 @@
 {
   "name": "now-completions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tabtab handler for now-cli",
   "main": "index.js",
   "bin": {
