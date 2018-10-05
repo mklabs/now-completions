@@ -10,7 +10,7 @@
 ## Installation
 
 ```sh
-npm install mklabs/now-completions -g
+npm install now-completions -g
 now-completions install
 ```
 
