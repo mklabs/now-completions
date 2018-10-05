@@ -6,6 +6,9 @@
   "bin": {
     "now-completions": "bin/now-completions.js"
   },
+  "scripts": {
+    "changelog": "auto-changelog"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mklabs/now-completions.git"
@@ -28,6 +31,13 @@
     "untildify": "^3.0.3"
   },
   "devDependencies": {
+    "auto-changelog": "^1.8.0",
     "eslint-config-mklabs": "^1.0.9"
+  },
+  "auto-changelog": {
+    "template": "keepachangelog",
+    "unreleased": true,
+    "commitLimit": false,
+    "ignoreCommitPattern": "changelog|readme|^test"
   }
 }
