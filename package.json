@@ -27,7 +27,7 @@
     "debug": "^4.0.1",
     "got": "^9.2.2",
     "minimist": "^1.2.0",
-    "tabtab": "^3.0.0-beta",
+    "tabtab": "^3.0.1-beta",
     "untildify": "^3.0.3"
   },
   "devDependencies": {
