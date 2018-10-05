@@ -1,0 +1,34 @@
+{
+  "name": "now-completions",
+  "version": "1.0.0",
+  "description": "Tabtab handler for now-cli",
+  "main": "index.js",
+  "bin": {
+    "now-completions": "bin/now-completions.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mklabs/now-completions.git"
+  },
+  "keywords": [
+    "tabtab",
+    "completions"
+  ],
+  "author": "mklabs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mklabs/now-completions/issues"
+  },
+  "homepage": "https://github.com/mklabs/now-completions#readme",
+  "dependencies": {
+    "debug": "^4.0.1",
+    "got": "^9.2.2",
+    "minimist": "^1.2.0",
+    "now": "^11.4.6",
+    "tabtab": "^3.0.0-beta",
+    "untildify": "^3.0.3"
+  },
+  "devDependencies": {
+    "eslint-config-mklabs": "^1.0.9"
+  }
+}
